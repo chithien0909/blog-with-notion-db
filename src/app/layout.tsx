@@ -1,5 +1,7 @@
-import './globals.css'
+// import './globals.css'
 import { Inter } from 'next/font/google'
+import '@notion-render/client/sass/theme.scss';
+
 
 const inter = Inter({ subsets: ['latin'] })
 
